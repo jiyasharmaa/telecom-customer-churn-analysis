@@ -38,11 +38,3 @@ Before diving into analysis, the dataset underwent standard preprocessing using 
 * **Python:** Core programming language
 * **Pandas & NumPy:** Data cleaning, transformation, and manipulation
 * **Matplotlib & Seaborn:** Statistical data visualization (countplots, histograms, pie charts, and grouped analysis)
-
----
-
-## 📂 Repository Structure
-```text
-├── Customer Churn.csv          # Raw dataset
-├── Churn_Analysis.ipynb        # Jupyter Notebook containing full EDA workflow
-└── README.md                   # Project documentation
